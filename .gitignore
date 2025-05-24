@@ -3,8 +3,9 @@
 books.json
 carIndex.js
 cars.json
-hotelIndex.js
 index.js
 movies.json
 profiles.json
 resIndex.js
+bookIndex.js
+movieIndex.js

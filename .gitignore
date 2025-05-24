@@ -1,0 +1,10 @@
+/node_modules
+.env
+books.json
+carIndex.js
+cars.json
+hotelIndex.js
+index.js
+movies.json
+profiles.json
+resIndex.js

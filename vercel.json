@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "movieIndex.js",
+            "src": "hotelIndex.js",
             "use": "@vercel/node"
         }
     ],
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "movieIndex.js"
+            "destination": "hotelIndex.js"
         }
     ]
 }
